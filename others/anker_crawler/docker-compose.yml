@@ -1,0 +1,81 @@
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports: 
+    - 15672:15672
+    networks:
+      - crawler
+
+  # parser:
+  #   image: php
+  #   container_name: parser
+  #   depends_on:
+  #     - rabbitmq
+  #   volumes: 
+  #     - ./:/app
+  #   command: ["./app/wait-for-it.sh", "rabbitmq:5672", "--", "php", "/app/parser/results_parser.php"]
+  #   networks:
+  #     - crawler
+
+  worker:
+    image: golang
+    container_name: worker
+    depends_on:
+      - rabbitmq
+    volumes: 
+      - ./:/app
+    command: ["./app/wait-for-it.sh", "rabbitmq:5672", "--", "go", "run", "/app/downloader/*.go", "&&", "go", "run", "/app/rpc_server/*.go"]
+    networks:
+      - crawler
+
+  # mysql:
+  #   image: mysql:5.7
+  #   container_name: mysql
+  #   restart: always
+  #   environment:
+  #     MYSQL_DATABASE: anker
+  #     MYSQL_ALLOW_EMPTY_PASSWORD: "true"
+  #   networks:
+  #     - crawler
+
+#   elasticsearch:
+#     image: docker.elastic.co/elasticsearch/elasticsearch:7.10.2
+#     container_name: elasticsearch
+#     environment:
+#       - node.name=es01
+#       - cluster.name=es-docker-cluster
+#       - discovery.type=single-node
+#       - bootstrap.memory_lock=true
+#       - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+#     ulimits:
+#       memlock:
+#         soft: -1
+#         hard: -1
+#     volumes:
+#       - data:/usr/share/elasticsearch/data
+#     ports: 
+#       - 9200:9200
+#     networks:
+#       - crawler
+
+#   kibana:
+#     image: docker.elastic.co/kibana/kibana:7.10.2
+#     container_name: kibana
+#     ports: 
+#       - 5601:5601
+#     environment:
+#       ELASTICSEARCH_URL: http://elasticsearch:9200
+#       ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+#     networks:
+#       - crawler
+
+# volumes: 
+#   data:
+#     driver: local
+#   app:
+
+
+networks:
+  crawler:
+    driver: bridge

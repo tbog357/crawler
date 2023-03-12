@@ -1,0 +1,82 @@
+version: '3'
+
+x-airflow-common:    
+    &airflow-common
+    image: apache/airflow
+    depends_on:
+        postgres:
+            condition: service_healthy
+    volumes:
+        - ./sql_files:/sql_files
+        - ./store_files:/store_files
+        - ./airflow_dags:/opt/airflow/dags
+        - ./airflow_logs:/opt/airflow/logs
+        - ./airflow_plugins:/opt/airflow/plugins
+    environment:
+        - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+        - _AIRFLOW_WWW_USER_CREATE=true
+        - _AIRFLOW_WWW_USER_USERNAME=admin
+        - _AIRFLOW_WWW_USER_PASSWORD=admin
+        - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql://airflow:airflow@postgres/airflow
+
+services:
+    postgres:
+        container_name: airflow_postgres
+        image: postgres
+        environment:
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+        volumes:
+            - ./postgres-db-volume:/var/lib/postgresql/data
+        healthcheck:
+            test: ["CMD", "pg_isready", "-U", "airflow"]
+            interval: 1s
+            retries: 5
+
+    mysql:
+        container_name: mysql_airflow_tutorial
+        image: mysql
+        environment:
+            - MYSQL_ROOT_PASSWORD=root
+        volumes:
+            - ./store_files:/store_files_mysql/
+            - ./my.cnf:/etc/mysql/my.cnf
+            
+    webserver:
+        <<: *airflow-common
+        container_name: airflow_webserver
+        ports:
+            - "8080:8080"
+        command: webserver
+        healthcheck:
+            test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+            interval: 5s
+            timeout: 30s
+            retries: 3
+        depends_on:
+            - postgres
+
+    scheduler:
+        <<: *airflow-common
+        container_name: airflow_scheduler
+        command: scheduler
+        healthcheck:
+            test: ["CMD-SHELL", 'airflow jobs check --job-type SchedulerJob --hostname "$${HOSTNAME}"']
+            interval: 10s
+            timeout: 10s
+            retries: 5
+        depends_on:
+            - postgres
+
+    # airflow-init:
+    #     <<: *airflow-common
+    #     entrypoint: /bin/bash
+    #     command:
+    #     - -c
+    #     - |
+    #        mkdir -p /sources/logs /sources/dags /sources/plugins
+    #        chown -R "50000:0" /sources/{logs,dags,plugins}
+    #     user: "0:0"
+    #     volumes:
+    #     - .:/sources

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-amqplib/php-amqplib": ">=2.9.0",
+        "elasticsearch/elasticsearch": "^7.10",
+        "ext-mysqli": "^7.2"
+    }
+}
