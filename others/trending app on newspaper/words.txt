@@ -1,0 +1,1171 @@
+ban
+bay
+biên
+biến
+biển
+biểu
+biện
+biệt
+buôn
+buộc
+bàn
+báo
+bão
+bí
+bùng
+bạch
+bảo
+bất
+bật
+bắc
+bắt
+bệnh
+bố
+bối
+bốn
+bổ
+cam
+chi
+chia
+chiếm
+chiến
+chiều
+chuyên
+chuyến
+chuẩn
+cháu
+chân
+châu
+chí
+chăm
+chương
+chạy
+chấp
+chất
+chẩn
+chậm
+chặn
+chặt
+chế
+chết
+chỉnh
+chống
+chốt
+chồng
+chỗ
+chờ
+chợ
+chục
+chủ
+chức
+chứng
+chữa
+coi
+covid
+cung
+cà
+cá
+cán
+cáo
+công
+cương
+cường
+cạnh
+cải
+cảm
+cảnh
+cầu
+cập
+cắt
+cố
+cộng
+cụ
+cục
+cứu
+cửa
+cực
+danh
+diễn
+diện
+doanh
+du
+dung
+dân
+dây
+dã
+dòng
+dõi
+dương
+dưỡng
+dấu
+dần
+dịch
+dục
+dừng
+dựng
+ghi
+giai
+gian
+giang
+giao
+giá
+giám
+giáo
+giãn
+gió
+giúp
+giả
+giải
+giới
+gái
+góp
+gấp
+gọi
+gỡ
+gửi
+hiểm
+hiệp
+hiệu
+hoàn
+hoàng
+hoạch
+hoạt
+huy
+huyện
+huế
+hàng
+hành
+hãng
+hình
+hòa
+hóa
+hôm
+hướng
+hưởng
+hạ
+hại
+hạn
+hải
+hấp
+hầu
+hậu
+học
+họp
+hồ
+hồi
+hồng
+hỗ
+hộ
+hội
+hữu
+khai
+khoa
+khoanh
+khoản
+khu
+khuyến
+khuẩn
+khám
+khánh
+khăn
+khả
+khảo
+khẩn
+khẩu
+khẳng
+khỏe
+khởi
+khử
+kim
+kinh
+kiên
+kiến
+kiểm
+kiện
+kèm
+kéo
+kê
+kêu
+kích
+ký
+kết
+kịp
+kỳ
+kỷ
+kỹ
+la
+lao
+linh
+liệt
+liệu
+lo
+long
+luận
+luật
+lâm
+lây
+lãi
+lãnh
+lê
+lý
+lăk
+lĩnh
+lưu
+lương
+lược
+lập
+lắk
+lễ
+lệ
+lệnh
+lịch
+lục
+lực
+ma
+mai
+may
+minh
+miền
+mong
+mua
+màu
+máu
+máy
+môi
+môn
+mưa
+mạng
+mẫu
+mắc
+mắt
+mặc
+mặt
+mẹ
+mẽ
+mục
+mỹ
+nai
+nam
+ncov
+nga
+nghi
+nghiêm
+nghiên
+nghiệp
+nghìn
+nghề
+nghỉ
+nghị
+ngoại
+nguy
+nguyên
+ngành
+ngãi
+ngăn
+ngũ
+ngại
+ngập
+ngắn
+ngọc
+ngờ
+ngừng
+nhiên
+nhiễm
+nhiệm
+nhiệt
+nhu
+nhuận
+nhấn
+nhập
+nhật
+nhẹ
+nhồi
+ninh
+nâng
+nêu
+nóng
+nông
+năng
+nằm
+nối
+nỗ
+nội
+nửa
+nữ
+phiên
+phong
+phun
+pháp
+phát
+phân
+phép
+phê
+phí
+phòng
+phó
+phù
+phú
+phúc
+phút
+phương
+phường
+phạm
+phản
+phẩm
+phận
+phố
+phối
+phổ
+phổi
+phụ
+phục
+phủ
+phức
+quang
+quen
+quy
+quyết
+quyền
+quán
+quân
+quý
+quản
+quốc
+ro
+rà
+rút
+rộng
+rời
+rủi
+sinh
+siêu
+song
+soát
+sung
+suất
+suốt
+sàng
+sách
+sát
+sáu
+sân
+sóc
+sông
+sĩ
+sơ
+sạn
+sẵn
+sống
+sốt
+sở
+sức
+sử
+sửa
+ta
+tai
+tham
+thay
+thi
+thiên
+thiết
+thiện
+thoại
+thu
+thuận
+thuật
+thuế
+thành
+thác
+thái
+tháo
+thân
+thôn
+thông
+thúc
+thăm
+thơ
+thư
+thương
+thất
+thần
+thẩm
+thận
+thị
+thọ
+thống
+thở
+thủ
+thức
+thừa
+thực
+tim
+tinh
+tiên
+tiêu
+tiến
+tiếng
+tiếp
+tiết
+tiền
+tiểu
+tiện
+to
+toàn
+toán
+tra
+trang
+tranh
+trao
+triển
+triệt
+triệu
+truy
+truyền
+trà
+trách
+trái
+trì
+trình
+trí
+trùng
+trú
+trăm
+trưa
+trương
+trưởng
+trạm
+trạng
+trần
+trị
+trọng
+trở
+trợ
+trụ
+trực
+tuyên
+tuyến
+tuần
+tài
+tàu
+tác
+tái
+tâm
+tân
+tây
+tình
+tích
+tín
+tương
+tướng
+tượng
+tạm
+tạp
+tải
+tất
+tầng
+tập
+tật
+tắc
+tễ
+tỉ
+tỉnh
+tịch
+tỏa
+tố
+tốc
+tối
+tổ
+tổng
+tục
+tỷ
+ubnd
+ung
+usd
+uống
+vang
+vay
+vi
+viên
+việt
+vn
+vòng
+võ
+văn
+vũ
+vấn
+vận
+vật
+vết
+vệ
+vọng
+vốn
+vợ
+vụ
+vực
+xe
+xuyên
+xuân
+xuất
+xác
+xây
+xã
+xét
+xóm
+xảy
+xử
+yên
+yêu
+yếu
+ánh
+áp
+âm
+đa
+đeo
+điện
+đoàn
+đoán
+đoạn
+đài
+đào
+đánh
+đêm
+đình
+đón
+đóng
+đô
+đông
+đăk
+đăng
+đương
+đường
+đại
+đạo
+đảm
+đảo
+đất
+đấu
+đầu
+đẩy
+đắk
+đặc
+đề
+địa
+định
+đốc
+đối
+đồ
+đồng
+đổ
+đổi
+độ
+độc
+đội
+đới
+đời
+đợi
+đợt
+đức
+đứng
+ưu
+ương
+ước
+ảnh
+ổn
+ủy
+ứng
+an ninh
+an toàn
+ban chỉ
+ban hành
+ban đầu
+bao gồm
+biến phức
+biết đã
+biểu hiện
+biểu tại
+biện pháp
+biệt là
+bàn tỉnh
+bác sĩ
+báo cáo
+báo tế
+bình thường
+bùng phát
+bảo hiểm
+bảo vệ
+bảo đảm
+bằng xe
+bệnh covid
+bệnh lý
+bệnh nhân
+bệnh tật
+bệnh viện
+bị ảnh
+bối cảnh
+bổ sung
+bộ công
+bộ phận
+bộ trưởng
+ca bệnh
+ca mắc
+ca nhiễm
+ca quảng
+ca tử
+cao nhất
+chi phí
+chiến lược
+chiến sĩ
+cho các
+cho người
+chuyên gia
+chuyến bay
+chuyển sang
+chính phủ
+chính quyền
+chính sách
+chính trị
+chăm sóc
+chương trình
+chất lượng
+chỉ đạo
+chống covid
+chống dịch
+chủ quan
+chủ tịch
+chủ yếu
+chủ động
+chức năng
+chữa bệnh
+covid trong
+covid tại
+cung cấp
+cuối năm
+cuối tháng
+cuộc họp
+các biện
+các bệnh
+các bộ
+các ca
+các chuyên
+các công
+các cơ
+các hoạt
+các khu
+các loại
+các nhà
+các trường
+các tỉnh
+các đơn
+các địa
+cách ly
+cách xã
+cán bộ
+còn lại
+có bệnh
+có ca
+có dịch
+có hiệu
+có khoảng
+có kết
+có một
+có nguy
+có triệu
+có trường
+công an
+công bố
+công cộng
+công nghiệp
+công nghệ
+công ty
+công tác
+công việc
+cùng kỳ
+cùng ngày
+cũng không
+cũng đã
+cơ quan
+cơ sở
+cơ tim
+cạnh đó
+cả các
+cả nước
+cảnh báo
+cảnh sát
+cần thiết
+cập nhật
+cổ phần
+cộng ca
+cộng đồng
+của bệnh
+của bộ
+của các
+của công
+của dịch
+của mình
+của người
+của nhà
+di chuyển
+diễn biến
+diễn ra
+do dịch
+do ảnh
+doanh nghiệp
+du lịch
+duy trì
+dân cư
+dân là
+dã chiến
+dương tính
+dẫn đến
+dịch bệnh
+dịch covid
+dịch tễ
+dịch vụ
+dự báo
+dự kiến
+dự phòng
+dự án
+ghi nhận
+gia đình
+giai đoạn
+gian tới
+giao thông
+giá cao
+giám sát
+giám đốc
+giáo dục
+giãn cách
+giải ngân
+giải pháp
+giải quyết
+góp phần
+hai bệnh
+hai ca
+hiện ca
+hiện các
+hiện có
+hiệu quả
+hoàn thiện
+hoàn thành
+hoạt động
+huy động
+hà nam
+hà nội
+hàng chục
+hàng hóa
+hành vi
+hô hấp
+hôm nay
+hôm qua
+hơn người
+hướng dẫn
+hưởng của
+hạn chế
+hệ thống
+hồ sơ
+hội an
+hợp với
+khai báo
+khi có
+khi dịch
+khi đó
+khoa nội
+khoanh vùng
+khoảng người
+khoảng triệu
+khu cách
+khu dân
+khu vực
+khuyến cáo
+khách hàng
+khả năng
+khẩn trương
+khẩu trang
+kinh doanh
+kinh tế
+kiểm soát
+kiểm tra
+kéo dài
+kêu gọi
+kế hoạch
+kết quả
+kết thúc
+kịp thời
+kỷ lục
+kỹ thuật
+lao động
+liên tục
+ly tại
+ly tập
+là bệnh
+là các
+là không
+là một
+là người
+làm việc
+lây lan
+lây nhiễm
+lãnh đạo
+lê nga
+lên trong
+lý nền
+lĩnh vực
+lưu trú
+lượng chức
+lấy mẫu
+lực lượng
+lực để
+máu cơ
+môi trường
+mạnh mẽ
+mẫu xét
+mắc covid
+mặc dù
+mỗi nơi
+một ca
+một chiến
+một người
+một trong
+mới được
+mở rộng
+mục tiêu
+nam bệnh
+nam có
+nam tp
+nam tuổi
+nam và
+nam đã
+ngay sau
+nghi nhiễm
+nghiên cứu
+nghị các
+nguy cơ
+nguy hiểm
+nguyên nhân
+nguyễn thị
+nguyễn xuân
+nguồn lực
+ngành tế
+ngày bệnh
+ngày có
+ngày và
+ngân hàng
+ngăn chặn
+người bị
+người có
+người dân
+người lao
+người nhà
+người thân
+người tiếp
+người trong
+người tử
+người đã
+nhiều người
+nhiễm covid
+nhiễm mới
+nhiễm ncov
+nhiệm vụ
+nhiệt đới
+nhu cầu
+nhà nước
+nhân covid
+nhân có
+nhân dân
+nhân là
+nhân lực
+nhân nữ
+nhân tại
+nhân viên
+nhân và
+nhân đang
+nhưng không
+nhấn mạnh
+nhận ca
+nhận tổng
+nhận định
+nhập cảnh
+nhập khẩu
+nhồi máu
+những ngày
+những người
+này cho
+này có
+này là
+này sẽ
+này đã
+nâng cao
+nêu trên
+năm nay
+năm trước
+năng lực
+nơi một
+nước có
+nước và
+nẵng bệnh
+nẵng ghi
+nẵng quảng
+nẵng trong
+nẵng từ
+nẵng và
+nẵng về
+nẵng đã
+nặng và
+nền kinh
+nền và
+nỗ lực
+nữ tuổi
+phong tỏa
+pháp luật
+pháp phòng
+phát biểu
+phát hiện
+phát triển
+phòng chống
+phương có
+phương tiện
+phương án
+phản ánh
+phối hợp
+phổ biến
+phục hồi
+phục vụ
+phức tạp
+quan chức
+quan đến
+quy mô
+quy định
+quyết liệt
+quyết định
+quả xét
+quản lý
+quảng nam
+quảng ngãi
+quận tân
+quốc gia
+quốc tế
+ra ngoài
+rà soát
+rất lớn
+rất nhiều
+rủi ro
+sau khi
+sinh viên
+soát bệnh
+sáng nay
+sân bay
+sản phẩm
+sản xuất
+sẵn sàng
+sẽ có
+sẽ tiếp
+số ca
+số lượng
+sở hữu
+sở tế
+sức khỏe
+tham gia
+theo báo
+theo dõi
+theo quy
+theo đó
+thiết bị
+thiết lập
+thu nhập
+thành lập
+thành phố
+thái bình
+tháng đầu
+thông báo
+thông tin
+thúc đẩy
+thương mại
+thường trực
+thường xuyên
+thế giới
+thị trường
+thống kê
+thủ tướng
+thủ tục
+tim trên
+tin từ
+tinh thần
+tiến hành
+tiếp nhận
+tiếp xúc
+toàn bộ
+toàn quốc
+tp hcm
+tp đà
+trao đổi
+triển khai
+triệu chứng
+triệu người
+triệu đồng
+trong bối
+trong các
+trong cộng
+trong một
+trong ngày
+trong những
+trong năm
+trong nước
+trong tháng
+trong thời
+trong vòng
+trung quốc
+trung tâm
+trung tại
+trung ương
+truy vết
+trách nhiệm
+trên chuyến
+trên các
+trên cả
+trên nền
+trên toàn
+trên địa
+trường hợp
+trưởng bộ
+trị tại
+trở lại
+trở về
+trực tuyến
+ty cổ
+tài chính
+tài sản
+tác phòng
+tác động
+tâm kiểm
+tâm tế
+tây nguyên
+tình hình
+tích cực
+tính với
+tính đến
+tăng cường
+tăng trưởng
+tướng nguyễn
+tại bệnh
+tại cuộc
+tại các
+tại cơ
+tại khoa
+tại khu
+tại nhà
+tại tp
+tại trung
+tại đà
+tế công
+tế và
+tế xã
+tỉnh quảng
+tỉnh thành
+tịch ubnd
+tổ chức
+tổng cộng
+tổng giám
+tổng số
+từ các
+từ ngày
+từ tháng
+từ vùng
+từ đà
+từ đầu
+từ đến
+tử vong
+tỷ lệ
+tỷ đồng
+viên tế
+viện đa
+việt nam
+và bệnh
+và các
+và có
+và một
+và người
+và phát
+và thực
+và được
+vào các
+vào khu
+vào ngày
+vùng dịch
+văn bản
+vẫn đang
+về nhà
+về việc
+vốn đầu
+với bệnh
+với các
+với người
+với nhiều
+với những
+với số
+với tổng
+vụ công
+xem xét
+xuất khẩu
+xuất kinh
+xác định
+xây dựng
+xã hội
+xét nghiệm
+xúc gần
+xúc với
+yếu tố
+áp dụng
+âm tính
+ông nguyễn
+đa khoa
+đang điều
+đang được
+đeo khẩu
+điều chỉnh
+điều này
+điều tra
+điều trị
+đà nẵng
+đây là
+đã có
+đã khỏi
+đã tăng
+đã được
+đó các
+đó có
+đó là
+đó người
+đóng cửa
+đăk lăk
+đăng ký
+được chuyển
+được các
+được cách
+được lấy
+được đưa
+đại dịch
+đạo các
+đạo phòng
+đầu năm
+đầu tháng
+đầu tư
+đầy đủ
+đẩy mạnh
+đến bệnh
+đến các
+đến tháng
+đề nghị
+đề xuất
+để phòng
+để phục
+để xử
+địa bàn
+địa phương
+địa điểm
+định của
+đối tượng
+đồng nai
+động của
+ảnh hưởng
+ổn định
+ứng dụng
