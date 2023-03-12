@@ -1,4 +1,4 @@
 .vscode
 *.pyc
 *.ipynb
-news_data
+*.html
