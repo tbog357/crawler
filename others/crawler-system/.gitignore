@@ -1,5 +1,0 @@
-airflow_tutorial/airflow_logs
-airflow_tutorial/airflow_plugins
-airflow_tutorial/postgres-db-volume
-airflow_tutorial/store_files
-*.pyc
