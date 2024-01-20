@@ -6,6 +6,6 @@ setup(
    description='A useful module',
    author='A news',
    author_email='tbog357',
-   packages=['news'],  #same as name
+   packages=['spiders'],  #same as name
    install_requires=['requests'], #external packages as dependencies
 )
