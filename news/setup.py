@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-   name='crawler',
+   name='news',
    version='1.0',
    description='A useful module',
-   author='A Crawler',
+   author='A news',
    author_email='tbog357',
-   packages=['crawler'],  #same as name
+   packages=['news'],  #same as name
    install_requires=['requests'], #external packages as dependencies
 )
